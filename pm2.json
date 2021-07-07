@@ -2,7 +2,7 @@
   "apps": [{
     "name": "rss3_ghost",
     "script": "production.js",
-    "cwd": "/Users/Asus/Documents/GitHub/rss3_ghost",
+    "cwd": "~/rss3_ghost",
     "exec_mode": "fork",
     "max_memory_restart": "1G",
     "autorestart": true,
