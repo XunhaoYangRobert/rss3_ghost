@@ -11,6 +11,8 @@
     "lint-fix": "eslint --fix src/"
   },
   "dependencies": {
+    "create-html": "^4.1.0",
+    "form-data": "^4.0.0",
     "rss3": "^0.3.11",
     "think-cache": "^1.0.0",
     "think-cache-file": "^1.0.8",
